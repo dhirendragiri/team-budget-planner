@@ -1,0 +1,65 @@
+div{
+   
+    border: solid tomato 4px;
+    margin: 15px;
+    widows: 76px;;
+    float:center;
+    border-radius: 20px;
+    font-size: 30px;
+    background-color:teal;
+    text-align:center;
+
+}
+form{
+    
+    border: solid skyblue 4px;
+    margin: 15px;
+    widows: 76px;;
+    float:center;
+    border-radius: 20px;
+    font-size: 30px;
+    background-color:teal;
+    text-align: left;
+
+}
+
+
+
+
+
+
+ input {
+  width: 100%;
+  padding: 5px;
+  margin: 5px  22px ;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  font-size: 15px;
+
+
+
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+
+

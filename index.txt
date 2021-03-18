@@ -1,0 +1,18 @@
+body{
+    background-image: url("biz.jpg");
+}
+div{
+    padding :100px;
+    border: solid tomato 4px;
+    margin: 15px;
+    widows: 76px;;
+    float:center;
+    border-radius: 20px;
+    font-size: 30px;
+    background-color: white;
+}
+h1{
+    padding-top: center;
+    float:center;
+}
+
